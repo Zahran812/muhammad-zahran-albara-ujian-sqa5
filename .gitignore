@@ -1,0 +1,29 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+appium-server.log
+
+# Build files (Maven/Gradle)
+target/
+build/
+.gradle/
+bin/
+
+# IDE files (IntelliJ, Eclipse, VS Code)
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+.vscode/
+
+# Test Reports & Screenshots (ExtentReports & MobileScreenshotUtil)
+test-output/
+screenshots/
+*.html
+
+# OS generated files
+.DS_Store
+Thumbs.db
